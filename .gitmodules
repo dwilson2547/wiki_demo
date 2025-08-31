@@ -1,0 +1,12 @@
+[submodule "wiki_demo.wiki"]
+	path = wiki_demo.wiki
+	url = https://github.com/dwilson2547/wiki_demo.wiki.git
+[submodule "sidebar_generator"]
+	path = sidebar_generator
+	url = git@github.com:dwilson2547/sidebar_generator.git
+[submodule "markdown_renderer"]
+	path = markdown_renderer
+	url = git@github.com:dwilson2547/markdown_renderer.git
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:dwilson2547/wiki.git
