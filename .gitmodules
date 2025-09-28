@@ -10,3 +10,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = git@github.com:dwilson2547/wiki.git
+[submodule "markdown_api"]
+	path = markdown_api
+	url = git@github.com:dwilson2547/markdown_api.git
